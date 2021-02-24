@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.andtech.core": {
-      "version": "https://github.com/AndrewMJordan/andtech.git#upm",
+      "version": "https://github.com/AndrewMJordan/andtech.git#v0.1.1",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "fe05983432237240416c3769f3c592f30e8e27d6"
+      "hash": "22d455d6d1061e668dd667f1ae164a55b5ae0a6f"
     },
     "com.unity.2d.animation": {
       "version": "5.0.3",
