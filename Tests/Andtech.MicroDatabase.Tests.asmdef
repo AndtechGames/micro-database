@@ -1,0 +1,23 @@
+{
+    "name": "Andtech.MicroDatabase.Tests",
+    "rootNamespace": "Andtech.MicroDatabase.Tests",
+    "references": [
+        "GUID:e99cb764faf7f3143912f3161d555c68"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "NSubstitute.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
