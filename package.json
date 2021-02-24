@@ -1,6 +1,6 @@
 {
 	"name": "com.andtech.micro-database",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"displayName": "Micro Database",
 	"description": "Lightweight, in-memory database implementation",
 	"author": {
