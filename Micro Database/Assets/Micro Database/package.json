@@ -1,0 +1,17 @@
+{
+	"name": "com.andtech.micro-database",
+	"version": "0.1.0",
+	"displayName": "Micro Database",
+	"description": "Lightweight, in-memory database implementation",
+	"author": {
+		"name": "AndrewMJordan",
+		"email": null
+	},
+	"samples": [
+		{
+			"displayName": "Database Examples",
+			"Description": "Example database workflow",
+			"path": "Samples/Database Examples"
+		}
+	]
+}
