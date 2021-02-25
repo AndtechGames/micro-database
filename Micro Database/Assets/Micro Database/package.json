@@ -16,7 +16,7 @@
 		"url": "https://github.com/AndrewMJordan/"
 	},
 	"repository": "https://github.com/AndrewMJordan/micro-database.git",
-	"license": "BSD-4-Clause",
+	"license": "BSD-3-Clause",
 	"samples": [
 		{
 			"displayName": "Database Examples",
