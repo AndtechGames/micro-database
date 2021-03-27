@@ -2,7 +2,7 @@
 name: UPM Deployment
 
 env:
-  PACKAGE_ROOT: Micro Database/Assets/Micro Database
+  PACKAGE_ROOT: MicroDatabase/Assets/MicroDatabase
 
 on:
   push:
