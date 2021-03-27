@@ -1,5 +1,5 @@
 /*
- *	Copyright (c) 2020, <AUTHOR>
+ *	Copyright (c) 2021, AndtechGames
  *	All rights reserved.
  *	
  *	This source code is licensed under the BSD-style license found in the
