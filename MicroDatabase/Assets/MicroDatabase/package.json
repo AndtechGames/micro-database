@@ -1,6 +1,6 @@
 {
 	"name": "com.andtech.micro-database",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"displayName": "Micro Database",
 	"description": "Lightweight, in-memory database implementation",
 	"unity": "2019.4",
@@ -25,7 +25,8 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/AndtechGames/micro-database.git"
+		"url": "git://github.com/AndtechGames/micro-database.git",
+		"directory": null
 	},
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/@AndtechGames"
